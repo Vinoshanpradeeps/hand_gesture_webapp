@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+    color: red;
+}
+h1{
+    color: black;
+    background-color: aqua;
+}
+#camera, #result{
+    border: 5px dashed aqua;
+    width: 350px;
+    height: 300px; 
+}
+button{
+    background-color: red;
+    color: black;
+}
